@@ -1,0 +1,18 @@
+{
+  "topics": {
+    "Basic Python": {
+      "subtopics": {
+        "Operator": true
+      },
+      "completed": [
+        "Operator"
+      ]
+    },
+    "Funcsion": {
+      "subtopics": {
+        "Begin Funcsion": false
+      },
+      "completed": []
+    }
+  }
+}
