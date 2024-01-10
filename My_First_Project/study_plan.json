@@ -1,18 +1,47 @@
 {
   "topics": {
-    "Basic Python": {
+    "Основи роботи з комп‘ютером": {
       "subtopics": {
-        "Operator": true
+        "Linux-системи": {"completed": false, "deadline": "2023-12-31"},
+        "Командний рядок": {"completed": false, "deadline": "2023-12-31"},
+        "IDE та текстові редактори для Pytho": {"completed": false, "deadline": "2023-12-31"}
       },
-      "completed": [
-        "Operator"
-      ]
+      "completed": false,
+      "deadline": "2023-12-31"
     },
-    "Funcsion": {
+    "Основи мереж": {
       "subtopics": {
-        "Begin Funcsion": false
+        "Мережеві протоколи": {"completed": false, "deadline": "2023-12-31"},
+        "Взаємодія сервера та клієнта": {"completed": false, "deadline": "2023-12-31"},
+        "Маршрутизатори й фаєрволи": {"completed": false, "deadline": "2023-12-31"}
       },
-      "completed": []
+      "completed": false,
+      "deadline": "2023-12-31"
+    },
+    "~ Основи програмування та базовий синтаксис Python": {
+      "subtopics": {
+        "Життєвий цикл прорамноо забезпечення (SDLC)": {"completed": false, "deadline": "2023-12-31"},
+        "Змінні, типи даних та оператори": {"completed": false, "deadline": "2023-12-31"},
+        "Умовні конструкції": {"completed": false, "deadline": "2023-12-31"},
+        "Цикли": {"completed": false, "deadline": "2023-12-31"},
+        "Функції": {"completed": false, "deadline": "2023-12-31"}
+      },
+      "completed": false,
+      "deadline": "2023-12-31"
+    },
+    "Алоритми та структури даних": {
+      "completed": false,
+      "deadline": "2023-12-31"
+    },
+    "Парадими й патерни в програмуванні": {
+      "subtopics": {
+        "Класи": {"completed": false, "deadline": "2023-12-31"},
+        "Принципи об’єктно-орієнтованоо": {"completed": false, "deadline": "2023-12-31"},
+        "прорамування (ООП)": {"completed": false, "deadline": "2023-12-31"},
+        "Патерни проєктування": {"completed": false, "deadline": "2023-12-31"}
+      },
+      "completed": false,
+      "deadline": "2023-12-31"
     }
   }
 }
