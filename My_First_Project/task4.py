@@ -123,10 +123,13 @@ class StudyPlannerGUI(tk.Tk):
 
         tk.messagebox.showinfo("Study Plan", plan_text)
 
+
+
     def save_and_exit(self):
         self.save_plan()
         self.destroy()
 
 if __name__ == "__main__":
-    planner = StudyPlannerGUI()
+    planner = StudyPlannerGUI(plan_file='your_plan_file.json')
     planner.mainloop()
+
