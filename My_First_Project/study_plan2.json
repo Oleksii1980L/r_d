@@ -98,19 +98,15 @@
       "completed": false,
       "deadline": "2023-12-31"
     },
-    "\u0420\u0435\u0437\u044e\u043c\u0435 \u0442\u0430 \u043b\u0438\u0441\u0442": {
+    "\u0420\u0435\u0437\u044e\u043c\u0435 \u0442\u0430 \u0441\u0443\u043f\u0440\u043e\u0432\u0456\u0434\u043d\u0438\u0439 \u043b\u0438\u0441\u0442": {
       "subtopics": {
         "\u0420\u0435\u0437\u044e\u043c\u0435": {
           "completed": false,
           "deadline": ""
-        },
-        "\u041b\u0438\u0441\u0442 \u0421\u0443\u043f\u0440\u043e\u0432\u0456\u0434\u043d\u0438\u0439": {
-          "completed": false,
-          "deadline": "Completed"
         }
       },
       "completed": [],
-      "deadline": "2024.07.02"
+      "deadline": "2024.07.12"
     }
   }
 }
